@@ -1,0 +1,19 @@
+.table{
+    background-color: burlywood;
+    border : 2px solid black;
+    border-radius: 10px;
+    padding: 2px;
+ 
+
+    .table-head{
+        background-color: darken($color: #000000, $amount: 0);
+        padding: 2px;
+        
+        th{
+            color : rgb(232, 228, 240)
+        }
+        
+    }
+}
+
+
